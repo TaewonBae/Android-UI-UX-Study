@@ -1,7 +1,8 @@
 # Android UI/UX
-## **Android UI/UX Study**
 
-Login UI/UX 
+## Android UI/UX Study
+
+## Login UI/UX 
 
 4. photo
 Project Information - photo
