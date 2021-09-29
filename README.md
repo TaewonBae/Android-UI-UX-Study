@@ -7,7 +7,7 @@
 ### 6. Blog Club
 Project Information - Blog Club
 
-<img src="https://user-images.githubusercontent.com/43931412/135289501-1d464f7e-c843-4218-93f7-631e53a8a545.gif" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135289511-51011fa7-1e21-4492-85a9-4888a270351e.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135289492-6c8fff43-25f8-4d01-ac76-918ff9faee99.png" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/43931412/135289511-51011fa7-1e21-4492-85a9-4888a270351e.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135289492-6c8fff43-25f8-4d01-ac76-918ff9faee99.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135289501-1d464f7e-c843-4218-93f7-631e53a8a545.gif" width="250" height="500"/>
 
 
 ### 5. monumental habit
