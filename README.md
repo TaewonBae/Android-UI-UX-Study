@@ -27,7 +27,7 @@ Project Information - photo
 Project Information - fitnestX
 
 <img src="https://user-images.githubusercontent.com/43931412/135039494-0841ec1d-8e39-4885-a834-873a2e47553a.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039497-ef690801-7005-4b8d-8695-f2eb477571ea.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039498-144c41cf-e66b-4c9f-a7cc-d6e3d6ea5c7c.png" width="250" height="500"/>
-<img src="https://user-images.githubusercontent.com/43931412/135039501-db846d0e-2fa1-45df-8b75-eeadaa6ad28d.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039503-9bfd179b-1e05-4aaa-9c12-54a820e1da8e.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039505-a8265bde-0fd0-45de-872a-0870d15249ca.png" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/43931412/135039501-db846d0e-2fa1-45df-8b75-eeadaa6ad28d.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039503-9bfd179b-1e05-4aaa-9c12-54a820e1da8e.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135039505-a8265bde-0fd0-45de-872a-0870d15249ca.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135291924-d78eac5e-15c6-4115-be2a-ecc91f37e540.gif" width="250" height="500">
 
 
 ### 2. Passengers
