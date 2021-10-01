@@ -6,6 +6,7 @@
 
 ### 8. Coinbase
 Project Information - Coinbase
+
 <img src="https://user-images.githubusercontent.com/43931412/135627013-5858a457-8a1c-4c7d-9ac6-d0fda9217c18.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627025-3a81af54-596e-498c-bd36-2654b83e122c.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627028-b75b9247-2161-4c7c-b83c-cda2780a31e9.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627031-f19c87c6-91e3-423b-b244-057f1a9b74e2.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627034-461f5a43-dd31-47a8-bab8-ba8a6a5bd3b6.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627036-4a6fc600-400c-4e3a-a335-dbc756c1dc08.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135627656-89be0f55-48e0-4e2f-abe0-1860df4e7964.gif" width="250" height="500"/>
 
 
