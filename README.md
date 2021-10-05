@@ -4,7 +4,10 @@
 
 ## Login UI/UX 
 
-### 9.1
+### 9. Meditation Medic App
+Project Information - Meditation Medic App
+
+<img src="https://user-images.githubusercontent.com/43931412/135978133-03703e5c-988d-4222-8ab5-7aca8a1628e4.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135978135-f5e6a31a-d189-40e6-92be-543865ccf9b2.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135978137-9a34130a-338a-4d49-ac76-f47746a2c3cc.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135978138-e6993316-50c5-457c-ac5b-ad949bcdcffd.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135978139-07caac1a-1822-4b09-be47-f6326daaa0ca.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/135978128-7f55587f-744a-43ad-8711-10e244b68cb8.gif" width="250" height="500"/>
 
 
 ### 8. Coinbase
