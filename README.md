@@ -4,6 +4,13 @@
 
 ## Login UI/UX 
 
+### 10. Fruit Hub
+Project Information - Fruit Hub
+
+<img src="https://user-images.githubusercontent.com/43931412/136042191-45b414ce-2104-4867-85cb-da2c1f730472.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/136042196-56b9f1c7-a26f-4524-8318-c7b8a9da188d.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/136042200-bbe7c5b6-8d92-45e5-a5d2-ab92de91d3c1.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/136042183-a0058fb8-605c-4c71-85f6-538042c98532.gif" width="250" height="500"/>
+
+
+
 ### 9. Meditation Medic App
 Project Information - Meditation Medic App
 
