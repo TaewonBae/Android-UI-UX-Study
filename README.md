@@ -3,7 +3,7 @@
 ## Android UI/UX Study
 
 ## Login UI/UX 
-1
+
 ### 10. Fruit Hub
 Project Information - Fruit Hub
 
