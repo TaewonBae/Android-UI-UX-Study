@@ -3,7 +3,17 @@
 ## Android UI/UX Study
 
 ## Login UI/UX 
-111
+
+### 11. DogDom
+Project Information - DogDom
+
+<img src="https://user-images.githubusercontent.com/43931412/136888489-557a14f5-a3fb-4811-a845-19ce6ae0b8cf.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/136888490-18850b09-bb22-4cae-89bf-153171b79b4d.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/136888485-6897ce64-975a-49c8-b9fb-f69f45989729.gif" width="250" height="500"/>
+
+
+
+
+
+
 ### 10. Fruit Hub
 Project Information - Fruit Hub
 
