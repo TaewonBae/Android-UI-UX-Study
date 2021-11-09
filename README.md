@@ -1,7 +1,7 @@
 # Android UI/UX
 
 ## Android UI/UX Study
-11111111
+1111111
 ## Login UI/UX 
 
 ### 12. GameTime
