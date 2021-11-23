@@ -4,6 +4,11 @@
 
 ## Login UI/UX 
 
+### 13. CodeFactory
+Project Information - CodeFactory
+
+<img src="https://user-images.githubusercontent.com/43931412/142998557-dfc00884-7fc7-423f-9672-25df1cbe56fa.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998558-f576abe4-d8a2-4c77-885c-f3a8a4edcf72.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998560-ce1ef169-afa8-4523-9160-dd1504c06da5.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998562-75c3da6d-2e01-4f30-a39e-ccc06bc7a1ec.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998564-e78e1f3f-7d9c-42af-a1f1-6de4714fac52.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998569-ed5d109c-c061-4e49-a8ba-6fe4400c0441.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/142998542-57a0da3b-09e5-4dcc-b5f7-d16e665b93e3.gif" width="250" height="500"/>
+
 ### 12. GameTime
 Project Information - GameTime
 
