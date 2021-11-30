@@ -5,6 +5,10 @@
 ## Home UI/UX
 
 ### 15. TESLA
+Project Information - TESLA
+
+<img src="https://user-images.githubusercontent.com/43931412/144058407-937d275d-f866-4e39-908a-fac83c343837.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058410-106145f2-3d40-4a55-9db1-9935b3846a27.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058412-5c5139aa-ed38-4a75-b109-fe2a05483b70.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058413-e7df8fc0-7e06-4989-bf4b-2732d8b34a57.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058399-7d3d2c3f-cbc4-4802-8492-ee98ca19154d.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058403-392725ea-bfd2-4d56-a73a-2995291c410b.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/144058052-9513ba09-3639-4551-a923-bbf8715883d8.gif" width="250" height="500"/>
+
 
 
 ## Login UI/UX 
