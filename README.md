@@ -3,7 +3,7 @@
 ## Android UI/UX Study
 
 ## Home UI/UX
-111111111
+11111111
 ### 15. TESLA
 Project Information - TESLA
 
