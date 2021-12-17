@@ -4,6 +4,10 @@
 
 ## Home UI/UX
 
+### 18. FitnessX
+Project Information - FitnessX
+
+
 ### 17. BlogClub
 Project Information - BlogClub
 
