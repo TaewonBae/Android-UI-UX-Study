@@ -7,6 +7,8 @@
 ### 18. FitnessX
 Project Information - FitnessX
 
+<img src="https://user-images.githubusercontent.com/43931412/146509497-1d42729c-676c-4056-a00d-75e0389e930b.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146509500-54e9c3b9-f3c0-405a-8a82-1dc06aed9eaf.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146509501-b6598736-6099-4177-81cd-f6a8ffb78321.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146509504-5333ad83-491b-442f-9825-aa0a452694b9.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146509505-c44f3b79-259f-4b13-b10f-cca3ed2ae197.gif" width="250" height="500"/>
+
 
 ### 17. BlogClub
 Project Information - BlogClub
