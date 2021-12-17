@@ -4,6 +4,12 @@
 
 ## Home UI/UX
 
+### 16. Apparel
+Project Information - Apparel
+<img src="https://user-images.githubusercontent.com/43931412/146508008-961b8ff1-4575-427b-b669-1f2277bd4417.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146508014-fb42fe64-bc56-49f4-871a-7936c5c99ed6.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146508018-074b5594-3cdb-4fdc-97ba-b1f0f3e75f77.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146508020-dbe29d60-e19e-4452-a2bb-5e00d9933546.png" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/43931412/146508022-1af7f226-865f-4687-bccc-e1fd71c3b2f8.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146508025-258d80e0-6df9-418a-a4cb-33041bb82b7c.gif" width="250" height="500"/>
+
+
 ### 15. TESLA
 Project Information - TESLA
 
