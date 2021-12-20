@@ -3,7 +3,14 @@
 ## Android UI/UX Study
 
 ## Home UI/UX
-11
+
+### 19. Bagzz
+Project Information - Bagzz
+
+<img src="https://user-images.githubusercontent.com/43931412/146798187-986cb2fe-10ba-4e04-a1a6-97446d555be1.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146798190-db3ac556-b0f9-4128-b9e8-79f2321370fa.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146798192-b4082a95-9a4b-4df1-be5d-d439bfbf830c.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146798194-b971f408-93ff-497a-90bb-3c372a377256.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/146798167-a608cc7d-ba99-4504-88a0-d5f1530d5ead.gif" width="250" height="500"/>
+
+
+
 ### 18. FitnessX
 Project Information - FitnessX
 
