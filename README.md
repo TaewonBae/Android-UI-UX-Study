@@ -3,7 +3,8 @@
 ## Android UI/UX Study
 
 ## Home UI/UX
-111111
+
+
 ### 19. Bagzz
 Project Information - Bagzz
 
