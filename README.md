@@ -4,6 +4,10 @@
 
 ## Home UI/UX
 
+### 20. X-S Store
+Project Information - X-S Store
+
+<img src="https://user-images.githubusercontent.com/43931412/147263153-ea962bce-ae39-47a7-b3ee-e43ca4b431ad.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147263155-a78a2c8b-1738-479f-9c01-1879dfce473a.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147263157-05553aba-3fa4-44a6-afb4-b5bcccf41322.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147263159-4c324710-3d15-4b22-8d0f-907f495e4bee.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147263139-c8c2274b-970a-4028-b03f-b0a1cf98a2d8.gif" width="250" height="500"/>
 
 ### 19. Bagzz
 Project Information - Bagzz
