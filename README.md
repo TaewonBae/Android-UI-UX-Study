@@ -3,7 +3,7 @@
 ## Android UI/UX Study
 
 ## Home UI/UX
-1
+11
 ### 20. X-S Store
 Project Information - X-S Store
 
