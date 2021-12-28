@@ -8,7 +8,8 @@
 ### 22. YukVaksin
 Project Information - YukVaksin
 
-<img src="" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/43931412/147561429-b14cc7b1-6317-44d7-9cac-2501177f334c.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147561431-6788117b-d014-4e60-bbd8-2643dd8e18f8.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147561434-33bb83ec-d64c-4af1-a10e-50efdbdf7d1f.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147561424-b1a3744b-fb82-4bab-9b74-37f3eb8dc583.gif" width="250" height="500"/>
+
 
 
 ### 21. Wallet
