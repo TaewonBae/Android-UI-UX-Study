@@ -8,8 +8,6 @@
 ### 21. Wallet
 Project Information - Wallet
 
-Project Information - Wallet
-
 <img src="https://user-images.githubusercontent.com/43931412/147533508-359507e3-84d9-4457-b6fe-4dd55bc9fd34.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147533512-f42681b2-91a1-4e65-a6f7-74e7a986f463.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147533514-ed64592a-e7c4-4b20-8004-343daa8590a4.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147533516-eb15c3b3-5fe5-44e9-8200-da00335578d6.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147533519-cae9d2be-f7b8-47ca-8294-0605a77c9ffa.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147533751-3059c6e2-90fd-4631-92de-e3a40ebccc52.gif" width="250" height="500"/>
 
 
