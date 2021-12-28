@@ -5,6 +5,12 @@
 
 ## Home UI/UX
 
+### 22. YukVaksin
+Project Information - YukVaksin
+
+<img src="" width="250" height="500"/>
+
+
 ### 21. Wallet
 Project Information - Wallet
 
