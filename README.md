@@ -5,6 +5,13 @@
 
 ## Home UI/UX
 
+### 24. Stripe Payment
+Project Information - Stripe Payment
+
+<img src="https://user-images.githubusercontent.com/43931412/147634616-a8fd7c38-c641-4724-8db5-6cd90323910a.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147634617-7e68dbe2-25a4-49b1-8691-2528129cdef3.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147634619-3a67bcc2-1df3-4614-94fc-1b65d80d06ca.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147634613-3aff3deb-0528-4d84-af2b-54121da96aa0.gif" width="250" height="500"/>
+
+
+
 ### 23. Foodeck
 Project Information - Foodeck
 
