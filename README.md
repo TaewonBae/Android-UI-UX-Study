@@ -5,6 +5,12 @@
 
 ## Home UI/UX
 
+### 23. Foodeck
+Project Information - Foodeck
+
+<img src="https://user-images.githubusercontent.com/43931412/147630960-b25825c2-a4b4-41e9-bcf7-4b5a0a6fe328.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147630963-64e06ecb-931c-4ffa-98d1-90c7395cfcac.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147630964-d06c4de1-43f7-4ff0-9542-960d4c2cfc3a.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147630965-6a2d7b7a-8cbe-4d18-b45e-b03aa4e330d3.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147630966-742f0818-7e77-482c-926b-cff14a007c2e.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/147630967-542f8a63-4a9a-4f47-b12b-d867b73d208c.gif" width="250" height="500"/>
+
+
 ### 22. YukVaksin
 Project Information - YukVaksin
 
