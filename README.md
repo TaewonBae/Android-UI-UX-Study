@@ -2,8 +2,15 @@
 
 ## Android UI/UX Study
 
-11111
+
 ## Home UI/UX
+
+### 26. DODO PIZZA
+Project Information - DODO PIZZA
+
+<img src="https://user-images.githubusercontent.com/43931412/148759987-d49f16a4-e639-490d-b060-ab4fd7b41b62.png" width="250" height="500"/><img src="https://user-images.githubusercontent.com/43931412/148759990-5e3c3c2f-a9ab-4cbf-a01c-1bc466cbfee8.gif" width="250" height="500"/>
+
+
 
 ### 25. DOS POR UNO
 Project Information - DOS POR UNO
