@@ -2,7 +2,7 @@
 
 ## Android UI/UX Study
 
-1111
+111
 ## Home UI/UX
 
 ### 26. DODO PIZZA
