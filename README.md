@@ -1,7 +1,7 @@
 # Android UI/UX
 
 ## Home UI/UX
-1
+11
 ### 26. DODO PIZZA
 Project Information - DODO PIZZA
 
