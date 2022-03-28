@@ -1,5 +1,5 @@
 # Android UI/UX
-1111
+
 ## Home UI/UX
 
 ### 26. DODO PIZZA
